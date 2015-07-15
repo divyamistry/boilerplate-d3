@@ -5,4 +5,4 @@ I've used this in the past to take care of d3 skeleton for quick protyping. Newe
 
 Feel free to add more boilerplate-y stuff to this. If you build off of this, message me so that I can learn and utilize it too.
 
-Special thanks to ![Dashing D3.js](https://www.dashingd3js.com/table-of-contents) for writing a neat guide which has helped me clarify basics time and time again.
+Special thanks to [Dashing D3.js](https://www.dashingd3js.com/table-of-contents) for writing a neat guide which has helped me clarify basics time and time again.
